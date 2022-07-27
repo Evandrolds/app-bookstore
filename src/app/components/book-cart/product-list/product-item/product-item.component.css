@@ -1,0 +1,44 @@
+.card img{
+  border-radius: 10px;
+  max-width: 230px;
+  max-height: 300px ;
+  margin: 20px;
+
+}
+.card{
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 300px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid whitesmoke;
+    background-color: rgb(15, 15, 15);
+
+}
+
+.card-text{
+    display: flex;
+    padding: 5px;
+    height: 35px;
+    border-radius: 7px;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: cursive;
+    color: white;
+   
+}
+
+.btn{
+    color: white;
+    font-family: cursive;
+    padding: 5px;
+    margin-right: 50px;
+
+}
+
+.btn-outline-secondary{
+    color: black;
+    background-color: rgb(253, 186, 2);
+ 
+}
